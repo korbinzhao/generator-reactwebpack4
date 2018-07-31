@@ -5,11 +5,11 @@ a scaffold generator for vue ui component
 
 ```
 npm install -g yo
-npm install -g generator-vueui
+npm install -g generator-reactwebpack4
 
-mkdir vueui-example
-cd vueui-example
+mkdir reactwebpack4-example
+cd reactwebpack4-example
 
-yo vueui
+yo reactwebpack4
 
 ```

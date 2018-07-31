@@ -1,9 +1,7 @@
-import DemoComponent from './demo-component.vue';
+console.log(`I'm a silly entry point`);
 
-export default {
-  DemoComponent
-}
+const arr = [1, 2, 3];
+const iAmJavascriptES6 = () => console.log(...arr);
+window.iAmJavascriptES6 = iAmJavascriptES6;
 
-export {
-  DemoComponent 
-}
+import App from "./App";

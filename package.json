@@ -1,7 +1,7 @@
 {
-  "name": "generator-vueui",
-  "version": "0.0.10",
-  "description": "a scaffold generator for vue ui component",
+  "name": "generator-reactwebpack4",
+  "version": "0.0.1",
+  "description": "a scaffold generator for react & webpack4 project",
   "scripts": {
     "test": "jest",
     "pretest": "eslint . --fix",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/korbinzhao/generator-vueui.git"
+    "url": "https://github.com/korbinzhao/generator-reactwebpack4/issues"
   },
   "files": [
     "app"
@@ -55,7 +55,7 @@
   "author": "korbinzhao",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/korbinzhao/generator-vueui/issues"
+    "url": "https://github.com/korbinzhao/generator-reactwebpack4/issues"
   },
-  "homepage": "https://github.com/korbinzhao/generator-vueui#readme"
+  "homepage": "https://github.com/korbinzhao/generator-reactwebpack4"
 }

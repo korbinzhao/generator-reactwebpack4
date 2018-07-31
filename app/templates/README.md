@@ -1,24 +1,18 @@
-# 一个vue ui组件
+# webpack-4-quickstart
+> Webpack 4 tutorial: All You Need to Know, from 0 Conf to Production Mode
 
-## 说明
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE)
 
-## 参数
+## Development
 
-## 方法
-
-
-## 示例代码
-
+```bash
+npm i && npm run start
 ```
-<style scoped>
-</style>
-<template>
-  <div>demo-component</div>
-</template>
-<script>
-export default {
-  name: "demo-component"
-}
-</script>
 
-```
+## Meta
+
+Valentino Gagliardi - [valentinog.com](https://www.valentinog.com) - valentino@valentinog.com
+
+## License
+
+This project is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
