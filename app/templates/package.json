@@ -5,9 +5,7 @@
   "main": "build/index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",
-    "build": "webpack --mode production",
-    "lib": "babel src --out-dir lib",
-    "prepublish": "npm run lib"
+    "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
