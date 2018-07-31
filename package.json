@@ -1,6 +1,6 @@
 {
   "name": "generator-reactwebpack4",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a scaffold generator for react & webpack4 project",
   "scripts": {
     "test": "jest",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/korbinzhao/generator-reactwebpack4/issues"
+    "url": "git@github.com:korbinzhao/generator-reactwebpack4.git"
   },
   "files": [
     "app"
