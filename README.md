@@ -1,15 +1,15 @@
 ## description
-a scaffold generator for vue ui component
+a scaffold generator for a component based on react & webpack4 project
 
 ## examples
 
 ```
 npm install -g yo
-npm install -g generator-reactwebpack4
+npm install -g generator-reactwebpack4component
 
-mkdir reactwebpack4-example
-cd reactwebpack4-example
+mkdir reactwebpack4component-example
+cd reactwebpack4component-example
 
-yo reactwebpack4
+yo reactwebpack4component
 
 ```

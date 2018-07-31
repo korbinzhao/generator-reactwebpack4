@@ -1,7 +1,7 @@
 {
-  "name": "generator-reactwebpack4",
-  "version": "0.0.2",
-  "description": "a scaffold generator for react & webpack4 project",
+  "name": "generator-reactwebpack4component",
+  "version": "0.0.1",
+  "description": "a scaffold generator for a component based on react & webpack4 project",
   "scripts": {
     "test": "jest",
     "pretest": "eslint . --fix",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/korbinzhao/generator-reactwebpack4/issues"
+    "url": "git@github.com:korbinzhao/generator-reactwebpack4component.git"
   },
   "files": [
     "app"
@@ -55,7 +55,7 @@
   "author": "korbinzhao",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/korbinzhao/generator-reactwebpack4/issues"
+    "url": "https://github.com/korbinzhao/generator-reactwebpack4component/issues"
   },
-  "homepage": "https://github.com/korbinzhao/generator-reactwebpack4"
+  "homepage": "https://github.com/korbinzhao/generator-reactwebpack4component"
 }
