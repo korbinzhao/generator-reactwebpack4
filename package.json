@@ -55,7 +55,7 @@
   "author": "korbinzhao",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/korbinzhao/generator-reactwebpack4/issues"
+    "url": "https://github.com/korbinzhao/generator-reactwebpack4component/issues"
   },
-  "homepage": "https://github.com/korbinzhao/generator-reactwebpack4"
+  "homepage": "https://github.com/korbinzhao/generator-reactwebpack4component"
 }
