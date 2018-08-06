@@ -35,7 +35,7 @@ module.exports = class extends Generator {
       type: 'input',
       name: 'description',
       message: 'description',
-      default: 'A react & webpack4 component project'
+      default: 'A react & webpack4 project'
     }]).then(answers => {
       this.project = answers.project || this.options.project;
       this.user = answers.user;
