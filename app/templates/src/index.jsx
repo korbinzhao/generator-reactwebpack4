@@ -1,10 +1,11 @@
-import React, { Component } from "react";
+import React from "react";
 import ReactDOM from "react-dom";
+import Content from './content.jsx';
 
 const App = () => {
   return (
     <div>
-      <p>React here!</p>
+      <Content />
     </div>
   );
 };
