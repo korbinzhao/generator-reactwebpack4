@@ -5,7 +5,7 @@
   "scripts": {
     "test": "jest",
     "pretest": "eslint . --fix",
-    "prepublish": "nsp check"
+    "prepublish": "npm audit --audit-level high"
   },
   "repository": {
     "type": "git",
