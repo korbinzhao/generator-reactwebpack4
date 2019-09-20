@@ -1,10 +1,12 @@
 import React, { Component } from "react";
 
+import './content.less';
+
 class Content extends Component {
 
   render(){
     return (
-      <div>
+      <div className="content-container">
         <p>Content here!!!</p>
       </div>
     );
