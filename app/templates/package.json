@@ -55,5 +55,7 @@
     "postcss-loader": "^3.0.0",
     "style-loader": "^0.22.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "antd": "^3.23.4"
+  }
 }
